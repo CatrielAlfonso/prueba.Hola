@@ -20,6 +20,7 @@ ePendrive* new_pendrive();
 int main()
 {
     int tam=5;
+    int* pAuxInt=NULL;
     int* vectorDinamico
 
 
